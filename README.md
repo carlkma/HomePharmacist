@@ -3,7 +3,9 @@ an Android application aiming to promote healthy lifestyles within the community
 
 ## Installation
 This program does not currently support installation.
+
 Source code (in Java) can be found in `HomePharmacist/main/java/com/example/homepharmacist`
+
 Resource files can be found in `HomePharmacist/main/res`
 
 ## Background
